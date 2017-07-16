@@ -5,11 +5,11 @@ Lua version generates a spiral pattern, JavaScript version implements Conway's G
 Requires Lua5.3. JavaScript version intended for webpages.
 
 
-
-
-
-
-
-
-
-
+⡿⠋⠀⣠⣴⣾⣿⣿⠿⣿⣿⣷⣦⣀⠀⠙
+⠀⢀⣾⣿⠟⠉⠀⠀⣀⠀⠀⠉⠻⣿⣷⡀
+⠀⣾⣿⠃⠀⣰⣾⣿⠿⣿⣷⣄⠀⠘⢿⣿
+⠰⣿⣏⠀⠰⣿⣏⢀⡀⠀⢹⣿⡇⠀⢸⣿
+⠀⣿⣿⡀⠀⠻⢿⡿⠟⠀⢠⣿⡟⠀⢠⣿
+⠀⠈⢿⣿⣦⣀⡀⢀⣀⣤⣿⡿⠁⠀⣼⣿
+⣧⡀⠀⠙⠻⠿⢿⡿⠿⠟⠋⠀⢀⣼⣿⠏
+⠻⣿⣷⣤⣀⣀⡀⢀⣀⣀⣤⣶⣿⠟⠁⠀
