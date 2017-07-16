@@ -3,7 +3,7 @@
 Lua version generates a spiral pattern, JavaScript version implements Conway's Game of Life.
 
 Requires Lua5.3. JavaScript version intended for webpages.
-
+```
 
 ⡿⠋⠀⣠⣴⣾⣿⣿⠿⣿⣿⣷⣦⣀⠀⠙
 ⠀⢀⣾⣿⠟⠉⠀⠀⣀⠀⠀⠉⠻⣿⣷⡀
@@ -13,3 +13,4 @@ Requires Lua5.3. JavaScript version intended for webpages.
 ⠀⠈⢿⣿⣦⣀⡀⢀⣀⣤⣿⡿⠁⠀⣼⣿
 ⣧⡀⠀⠙⠻⠿⢿⡿⠿⠟⠋⠀⢀⣼⣿⠏
 ⠻⣿⣷⣤⣀⣀⡀⢀⣀⣀⣤⣶⣿⠟⠁⠀
+```
