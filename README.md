@@ -4,7 +4,6 @@ Lua version generates a spiral pattern, JavaScript version implements Conway's G
 
 Requires Lua5.3. JavaScript version intended for webpages.
 ```
-
 ⡿⠋⠀⣠⣴⣾⣿⣿⠿⣿⣿⣷⣦⣀⠀⠙
 ⠀⢀⣾⣿⠟⠉⠀⠀⣀⠀⠀⠉⠻⣿⣷⡀
 ⠀⣾⣿⠃⠀⣰⣾⣿⠿⣿⣷⣄⠀⠘⢿⣿
@@ -14,3 +13,5 @@ Requires Lua5.3. JavaScript version intended for webpages.
 ⣧⡀⠀⠙⠻⠿⢿⡿⠿⠟⠋⠀⢀⣼⣿⠏
 ⠻⣿⣷⣤⣀⣀⡀⢀⣀⣀⣤⣶⣿⠟⠁⠀
 ```
+
+Example of the JavaScript version can be found [here](https://adrian-alberto.github.io).
